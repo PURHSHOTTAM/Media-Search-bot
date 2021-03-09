@@ -11,7 +11,7 @@
 
 <p align="center">
 
-   <a href = "https://dashboard.heroku.com/new?button-url=android-app%3A%2F%2Forg.telegram.messenger%2F&template=https%3A%2F%2Fgithub.com%2FAnimesh_941%Media_Search_bot%2Ftree%2Fmaster"><img src="https://telegra.ph/file/eb784f6f13ddc0efd2508.png" alt="Press to Takeoff" width="220px"></a>
+   <a href = "https://dashboard.heroku.com/new?button-url=android-app%3A%2F%2Forg.telegram.messenger%2F&template=https%3A%2F%2Fgithub.com%2FAnimesh-941%Media-Search-bot%2Ftree%2Fmaster"><img src="https://telegra.ph/file/eb784f6f13ddc0efd2508.png" alt="Press to Takeoff" width="220px"></a>
 
 </p>
 <br>
