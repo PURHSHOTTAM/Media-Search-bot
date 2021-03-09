@@ -7,7 +7,7 @@
 ### Installation
 
 #### Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://dashboard.heroku.com/new?button-url=android-app://org.telegram.messenger/&template=https://github.com/Animesh-941/Media-Search-bot/tree/master)
 
 #### Watch this video to create bot - https://youtu.be/dsuTn4qV2GA
 
