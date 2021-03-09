@@ -1,7 +1,8 @@
 {
     "name": "FILES SEARCH 941 BOT",
     "description": "When you send a file on telegram channel/group this bot will save that in database, So you can search that easily in inline mode",
-    "keywords": [
+    "logo": "https://telegra.ph/file/f8a4e125eaa35b06d04f0.jpg",
+     "keywords": [
       "telegram",
       "best",
       "indian",
@@ -12,7 +13,7 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Animesh-941/Media-Search-bot",
+    "website": "https://t.me/Animesh-941",
     "repository": "https://github.com/Animesh-941/Media-Search-bot",
     "env": {
         "BOT_TOKEN": {
@@ -83,7 +84,7 @@
     }
 }
 {
-   "logo": "https://telegra.ph/file/20e1d4875acf1b8346594.png",
+   "logo": "https://telegra.ph/file/f8a4e125eaa35b06d04f0.jpg",
    "name": "FILES 941 BOT™",
    "repository": "https://github.com/Animesh-941/Media-Search-bot"
 }
